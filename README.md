@@ -1,2 +1,6 @@
 # screensaver-fake
-Fake screen saver with js + html + css
+Simulator of old windows "screensaver".
+Make fun of your friends with this simple game written with JavaScript, HTML and CSS.
+To get better open the demo page and press F11.
+
+
