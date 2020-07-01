@@ -5,4 +5,5 @@ To get better open the demo page and press F11.
 
 DEMO PAGE: https://dmmaycon.github.io/screensaver-fake/
 
+![alt text](https://raw.githubusercontent.com/dmmaycon/screensaver-fake/master/sreen.gif)
 
